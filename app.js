@@ -119,18 +119,3 @@ report['list2obj'] = elapsed4;
 
 console.log(report);
 
-/*
-
-start = new Date().getTime();
-
-var maxCount = 10;
-
-for(var n=0;n<maxCount;n++){
-    assert(true,'굿');
-    console.log(n);
-}
-
-elapsed = new Date().getTime() - start;
-
-console.log('소요',elapsed);
-*/
